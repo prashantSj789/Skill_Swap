@@ -2,7 +2,7 @@
 
 This is the **Go (Golang)** backend for the **Skill Swap Platform**, a web application that allows users to exchange skills with each other. Think of it like "Barter for Skills" — users can offer and request skills, manage availability, swap with others, and leave feedback.
 
-> ⚛️ A separate [React](https://react.dev/) frontend is built to interact with this API.
+> ⚛️ A separate [React] frontend is built to interact with this API.
 
 ---
 
@@ -13,8 +13,7 @@ This is the **Go (Golang)** backend for the **Skill Swap Platform**, a web appli
 - **GORM** – ORM for PostgreSQL
 - **PostgreSQL** – Relational database
 - **CORS** – Configured for cross-origin requests (React frontend)
-- **Swagger** – Optional API documentation (via swaggo)
-
+- **ReactFrontend** - Front end of the application 
 ---
 
 ## 🚀 Features
