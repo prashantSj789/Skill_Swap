@@ -1,4 +1,4 @@
-# 🛠️ Skill Swap Platform – Backend
+# 🛠️ Skill Swap Platform 
 
 This is the **Go (Golang)** backend for the **Skill Swap Platform**, a web application that allows users to exchange skills with each other. Think of it like "Barter for Skills" — users can offer and request skills, manage availability, swap with others, and leave feedback.
 
