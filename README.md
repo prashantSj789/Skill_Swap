@@ -46,19 +46,3 @@ This is the **Go (Golang)** backend for the **Skill Swap Platform**, a web appli
 - Download user activity reports
 
 ---
-
-## ⚙️ Getting Started
-
-### Prerequisites
-
-- Go 1.21+
-- PostgreSQL 13+
-- React frontend (optional but recommended)
-
-### Run Locally
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/yourname/skillswap-backend.git
-cd skillswap-backend
